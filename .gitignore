@@ -1,1 +1,4 @@
 templates
+.idea
+.gitignore
+.DS_Store
